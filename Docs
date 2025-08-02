@@ -1,26 +1,12 @@
 docs/index.html <head>
     <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rain Money - Smart Loans, Smart Returns</title>
-    <meta name="description" content="Get quick loans at flexible rates or lend and
-earn competitive returns. Rain Money - Your trusted financial partner in Nigeria.">
-    <meta name="author" content="Rain Money">
-    <meta property="og:title" content="Rain Money - Smart Loans, Smart Returns">
-    <meta property="og:description" content="Get quick loans at flexible rates or
-lend and earn competitive returns. Rain Money - Your trusted financial partner in
-Nigeria.">
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="https://pub-
-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b8c39ceb-159d-4a5b-b285-d88e02e1e053/id-
-preview-4091d1ed--a8d15820-1099-4952-ba1d-bbac43bdce58.lovable.app-
-1754109010502.png">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@lovable_dev">
-    <meta name="twitter:image" content="https://pub-
-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b8c39ceb-159d-4a5b-b285-d88e02e1e053/id-
-preview-4091d1ed--a8d15820-1099-4952-ba1d-bbac43bdce58.lovable.app-
-1754109010502.png">
-    <script type="module" crossorigin="" src="/assets/index-C0oiTxEt.js"></script>
+    <title>Rain Money - Building Bridges, Empowering Futures</title>
+    <meta name="description" content="Rain Money is a leading financial technology
+company offering loans and lending opportunities in Nigeria. Borrow responsibly,
+lend smartly.">
+    <script type="module" crossorigin="" src="/assets/index-DQpS_674.js"></script>
     <link rel="stylesheet" crossorigin="" href="/assets/index-TfyJ7dDC.css">
 <style>
         #lovable-badge {
@@ -43,34 +29,38 @@ text-transform: none !important;
 font-feature-settings: normal !important;
 font-weight: 400 !important;
 <script defer="" src="https://rain-money-loans.lovable.app/~flock.js" data-proxy-
-url="https://rain-money-loans.lovable.app/~api/analytics"></script><style
-type="text/css">:where(html[dir="ltr"]),:where([data-sonner-toaster][dir="ltr"]){--
-toast-icon-margin-start: -3px;--toast-icon-margin-end: 4px;--toast-svg-margin-start:
--1px;--toast-svg-margin-end: 0px;--toast-button-margin-start: auto;--toast-button-
-margin-end: 0;--toast-close-button-start: 0;--toast-close-button-end: unset;--toast-
-close-button-transform: translate(-35%, -35%)}:where(html[dir="rtl"]),:where([data-
-sonner-toaster][dir="rtl"]){--toast-icon-margin-start: 4px;--toast-icon-margin-end:
--3px;--toast-svg-margin-start: 0px;--toast-svg-margin-end: -1px;--toast-button-
-margin-start: 0;--toast-button-margin-end: auto;--toast-close-button-start: unset;--
-toast-close-button-end: 0;--toast-close-button-transform: translate(35%,
+url="https://rain-money-loans.lovable.app/~api/analytics"></script><meta
+name="twitter:image" content="https://pub-
+bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/93d226b7-e782-47f3-8b49-ce3fc9f4ad4e/id-
+preview-aa526a8b--a8d15820-1099-4952-ba1d-bbac43bdce58.lovable.app-
+1754154801363.png"><style type="text/css">:where(html[dir="ltr"]),:where([data-
+sonner-toaster][dir="ltr"]){--toast-icon-margin-start: -3px;--toast-icon-margin-end:
+4px;--toast-svg-margin-start: -1px;--toast-svg-margin-end: 0px;--toast-button-
+margin-start: auto;--toast-button-margin-end: 0;--toast-close-button-start: 0;--
+toast-close-button-end: unset;--toast-close-button-transform: translate(-35%,
+-35%)}:where(html[dir="rtl"]),:where([data-sonner-toaster][dir="rtl"]){--toast-icon-
+margin-start: 4px;--toast-icon-margin-end: -3px;--toast-svg-margin-start: 0px;--
+toast-svg-margin-end: -1px;--toast-button-margin-start: 0;--toast-button-margin-end:
+auto;--toast-close-button-start: unset;--toast-close-button-end: 0;--toast-close-
+button-transform: translate(35%, -35%)}:where([data-sonner-toaster])
+{position:fixed;width:var(--width);font-family:ui-sans-serif,system-ui,-apple-
+system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-
+serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;--gray1:
+hsl(0, 0%, 99%);--gray2: hsl(0, 0%, 97.3%);--gray3: hsl(0, 0%, 95.1%);--gray4:
+hsl(0, 0%, 93%);--gray5: hsl(0, 0%, 90.9%);--gray6: hsl(0, 0%, 88.7%);--gray7:
+hsl(0, 0%, 85.8%);--gray8: hsl(0, 0%, 78%);--gray9: hsl(0, 0%, 56.1%);--gray10:
+hsl(0, 0%, 52.3%);--gray11: hsl(0, 0%, 43.5%);--gray12: hsl(0, 0%, 9%);--border-
+radius: 8px;box-sizing:border-box;padding:0;margin:0;list-style:none;outline:none;z-
+index:999999999}:where([data-sonner-toaster][data-x-position="right"])
+{right:max(var(--offset),env(safe-area-inset-right))}:where([data-sonner-toaster]
+[data-x-position="left"]){left:max(var(--offset),env(safe-area-inset-
+left))}:where([data-sonner-toaster][data-x-position="center"])
 
- -35%)}:where([data-sonner-toaster]){position:fixed;width:var(--width);font-
-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe
-UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI
-Emoji,Segoe UI Symbol,Noto Color Emoji;--gray1: hsl(0, 0%, 99%);--gray2: hsl(0, 0%,
-97.3%);--gray3: hsl(0, 0%, 95.1%);--gray4: hsl(0, 0%, 93%);--gray5: hsl(0, 0%,
-90.9%);--gray6: hsl(0, 0%, 88.7%);--gray7: hsl(0, 0%, 85.8%);--gray8: hsl(0, 0%,
-78%);--gray9: hsl(0, 0%, 56.1%);--gray10: hsl(0, 0%, 52.3%);--gray11: hsl(0, 0%,
-43.5%);--gray12: hsl(0, 0%, 9%);--border-radius: 8px;box-sizing:border-
-box;padding:0;margin:0;list-style:none;outline:none;z-index:999999999}:where([data-
-sonner-toaster][data-x-position="right"]){right:max(var(--offset),env(safe-area-
-inset-right))}:where([data-sonner-toaster][data-x-position="left"]){left:max(var(--
-offset),env(safe-area-inset-left))}:where([data-sonner-toaster][data-x-
-position="center"]){left:50%;transform:translate(-50%)}:where([data-sonner-toaster]
-[data-y-position="top"]){top:max(var(--offset),env(safe-area-inset-
-top))}:where([data-sonner-toaster][data-y-position="bottom"]){bottom:max(var(--
-offset),env(safe-area-inset-bottom))}:where([data-sonner-toast]){--y:
-translateY(100%);--lift-amount: calc(var(--lift) * var(--gap));z-index:var(--z-
+ {left:50%;transform:translate(-50%)}:where([data-sonner-toaster][data-y-
+position="top"]){top:max(var(--offset),env(safe-area-inset-top))}:where([data-
+sonner-toaster][data-y-position="bottom"]){bottom:max(var(--offset),env(safe-area-
+inset-bottom))}:where([data-sonner-toast]){--y: translateY(100%);--lift-amount:
+calc(var(--lift) * var(--gap));z-index:var(--z-
 index);position:absolute;opacity:0;transform:var(--y);filter:blur(0);touch-
 action:none;transition:transform .4s,opacity .4s,height .4s,box-shadow .2s;box-
 sizing:border-box;outline:none;overflow-wrap:anywhere}:where([data-sonner-toast]
@@ -114,8 +104,7 @@ radius:50%;cursor:pointer;z-index:1;transition:opacity .1s,background .2s,border
 color .2s}:where([data-sonner-toast]) :where([data-close-button]):focus-visible{box-
 shadow:0 4px 12px #0000001a,0 0 0 2px #0003}:where([data-sonner-toast])
 :where([data-disabled="true"]){cursor:not-allowed}:where([data-sonner-toast]):hover
-
- :where([data-close-button]):hover{background:var(--gray2);border-color:var(--
+:where([data-close-button]):hover{background:var(--gray2);border-color:var(--
 gray5)}:where([data-sonner-toast][data-
 swiping="true"]):before{content:"";position:absolute;left:0;right:0;height:100%;z-
 index:-1}:where([data-sonner-toast][data-y-position="top"][data-
@@ -127,7 +116,10 @@ removed="true"]):before{content:"";position:absolute;inset:0;transform:scaleY(2)
 sonner-toast]):after{content:"";position:absolute;left:0;height:calc(var(--gap) +
 1px);bottom:100%;width:100%}:where([data-sonner-toast][data-mounted="true"]){--y:
 translateY(0);opacity:1}:where([data-sonner-toast][data-expanded="false"][data-
-front="false"]){--scale: var(--toasts-before) * .05 + 1;--y: translateY(calc(var(--
+re([da
+t
+
+ front="false"]){--scale: var(--toasts-before) * .05 + 1;--y: translateY(calc(var(--
 lift-amount) * var(--toasts-before))) scale(calc(-1 * var(--scale)));height:var(--
 front-toast-height)}:where([data-sonner-toast])>*{transition:opacity
 .4s}:where([data-sonner-toast][data-expanded="false"][data-front="false"][data-
@@ -175,10 +167,7 @@ border: hsl(60, 100%, 12%);--warning-text: hsl(46, 87%, 65%);--error-bg: hsl(358
 76%, 10%);--error-border: hsl(357, 89%, 16%);--error-text: hsl(358, 100%, 81%)}
 [data-rich-colors=true][data-sonner-toast][data-type=success],[data-rich-
 colors=true][data-sonner-toast][data-type=success] [data-close-button]
-re([da
-t
-
- {background:var(--success-bg);border-color:var(--success-border);color:var(--
+{background:var(--success-bg);border-color:var(--success-border);color:var(--
 success-text)}[data-rich-colors=true][data-sonner-toast][data-type=info],[data-rich-
 colors=true][data-sonner-toast][data-type=info] [data-close-button]{background:var(-
 -info-bg);border-color:var(--info-border);color:var(--info-text)}[data-rich-
@@ -190,7 +179,8 @@ sonner-toast][data-type=error] [data-close-button]{background:var(--error-
 bg);border-color:var(--error-border);color:var(--error-text)}.sonner-loading-
 wrapper{--size: 16px;height:var(--size);width:var(--
 size);position:absolute;inset:0;z-index:10}.sonner-loading-wrapper[data-
-visible=false]{transform-origin:center;animation:sonner-fade-out .2s ease
+
+ visible=false]{transform-origin:center;animation:sonner-fade-out .2s ease
 forwards}.sonner-spinner{position:relative;top:50%;left:50%;height:var(--
 size);width:var(--size)}.sonner-loading-bar{animation:sonner-spin 1.2s linear
 infinite;background:var(--gray11);border-
@@ -229,7 +219,7 @@ h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-
 md:max-w-[420px]"></ol></div><div class="min-h-screen"><nav class="fixed top-0 left-
 0 right-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border"><div
 class="container mx-auto px-4 h-16 flex items-center justify-between"><div
-class="flex items-center space-x-3"><img src="/assets/rain-money-logo-B58EfIYp.png"
+class="flex items-center space-x-3"><img src="/assets/rain-money-logo-Cxj6eLGy.png"
 alt="RM" class="w-8 h-8"><span class="text-2xl font-bold bg-gradient-primary bg-
 clip-text text-transparent">Rain Money</span></div><div class="hidden md:flex items-
 center space-x-8"><a href="#about" class="text-foreground hover:text-rain-blue
@@ -237,8 +227,7 @@ transition-colors">About</a><a href="#faqs" class="text-foreground hover:text-ra
 blue transition-colors">FAQs</a><a href="#calculator" class="text-foreground
 hover:text-rain-blue transition-colors">Loan Calculator</a><span class="text-sm
 text-muted-foreground">+2348185471803</span></div><div class="flex items-center
-
- space-x-3"><button class="inline-flex items-center justify-center gap-2 whitespace-
+space-x-3"><button class="inline-flex items-center justify-center gap-2 whitespace-
 nowrap text-sm font-medium ring-offset-background transition-all duration-300 focus-
 visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-
 visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50
@@ -251,7 +240,8 @@ events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size
 [&amp;_svg]:shrink-0 bg-gradient-primary text-white hover:shadow-glow hover:scale-
 105 font-semibold h-9 rounded-md px-3">Get a Loan</button></div></div></nav><section
 class="min-h-screen pt-16 bg-gradient-hero flex items-center relative overflow-
-hidden"><div class="absolute inset-0 bg-grid-pattern opacity-5"></div><div
+
+ hidden"><div class="absolute inset-0 bg-grid-pattern opacity-5"></div><div
 class="container mx-auto px-4 py-20"><div class="text-center max-w-4xl mx-auto"><div
 class="mb-6 flex justify-center"><div class="bg-white/10 p-2 rounded-full"><div
 class="bg-gradient-primary p-3 rounded-full"><svg xmlns="http://www.w3.org/2000/svg"
@@ -298,8 +288,7 @@ disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4
 [&amp;_svg]:shrink-0 border-2 bg-transparent h-10 px-4 py-2 group-hover:scale-105
 transition-transform border-white text-white hover:bg-white hover:text-rain-
 blue">Start Lending <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-
- viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-
+viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-
 linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-right w-4 h-4 ml-
 2"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg></button></div>
 </div></div></div></div></section><section id="about" class="py-20 bg-background">
@@ -312,7 +301,8 @@ dynamics that shape Nigeria's micro, small, and medium-sized enterprises (MSMEs)
 Our expertise goes beyond numbers. We recognize the distinctive needs of the local
 market and the entrepreneurs driving its growth.</p><p class="text-lg text-muted-
 foreground mb-8 leading-relaxed">Our approach is grounded in thorough research and
-deep industry knowledge, harnessed by a dynamic, youthful team that brings both
+
+ deep industry knowledge, harnessed by a dynamic, youthful team that brings both
 agility and innovation to our operations. This allows us to respond swiftly and
 efficiently, ensuring that our decision-making process is not only fast but also
 well-informed.</p><button class="inline-flex items-center justify-center gap-2
@@ -322,7 +312,7 @@ visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50
 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 bg-gradient-
 primary text-white hover:shadow-glow hover:scale-105 font-semibold h-11 rounded-md
 px-8">Get Started Now</button></div><div class="relative"><div class="relative z-
-10"><img src="/assets/happy-customer-DB97y4un.png" alt="Happy customer"
+10"><img src="/assets/happy-customer-CE8NPMEl.png" alt="Happy customer"
 class="rounded-2xl shadow-medium w-full"></div><div class="absolute -top-4 -right-4
 w-full h-full bg-gradient-primary rounded-2xl opacity-20"></div></div></div><div
 class="rounded-lg border shadow-sm p-12 bg-gradient-hero text-white text-center
@@ -359,21 +349,21 @@ font-bold">24hrs</span></div><p class="text-white/90">Loan approval time</p></di
 foreground leading-relaxed">Through the Rain Money platform, users can participate
 in a flexible and centralized lending marketplace, where they are able to negotiate
 loan terms directly with us, then Rain Money loans the funds directly to the
-
- borrowers. This model not only eliminates uncertainties that may arise from
+borrowers. This model not only eliminates uncertainties that may arise from
 borrowing directly, but also makes the process hassle-free.</p></div></div>
 </section><section class="py-20 bg-background"><div class="container mx-auto px-4">
 <div class="grid lg:grid-cols-2 gap-16"><div class="rounded-lg border shadow-sm p-12
 bg-gradient-card text-white shadow-glow hover:shadow-medium transition-all duration-
 300"><div class="text-center"><div class="mb-8"><img src="/assets/business-
-handshake-D9EFnI6c.png" alt="Get a Loan" class="w-32 h-32 mx-auto rounded-full
+handshake-C7FGxwMV.png" alt="Get a Loan" class="w-32 h-32 mx-auto rounded-full
 object-cover shadow-medium"></div><h3 class="text-3xl font-bold mb-6">Get a
 Loan</h3><p class="text-xl text-white/90 mb-8 leading-relaxed">Borrow loans at
 amazing and flexible rates. Quick approval, competitive interest rates, and flexible
 repayment terms designed to meet your financial needs.</p><ul class="text-left text-
 white/80 mb-8 space-y-3"><li class="flex items-center"><div class="w-2 h-2 bg-rain-
 cyan rounded-full mr-3"></div>Fast 24-hour approval process</li><li class="flex
-items-center"><div class="w-2 h-2 bg-rain-cyan rounded-full mr-3"></div>Competitive
+
+ items-center"><div class="w-2 h-2 bg-rain-cyan rounded-full mr-3"></div>Competitive
 interest rates</li><li class="flex items-center"><div class="w-2 h-2 bg-rain-cyan
 rounded-full mr-3"></div>Flexible repayment terms</li><li class="flex items-center">
 <div class="w-2 h-2 bg-rain-cyan rounded-full mr-3"></div>No hidden charges</li>
@@ -420,8 +410,7 @@ items-center justify-center mb-4"><svg xmlns="http://www.w3.org/2000/svg" width=
 height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
 stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-smartphone w-8
 h-8"><rect width="14" height="20" x="5" y="2" rx="2" ry="2"></rect><path d="M12
-
- 18h.01"></path></svg></div><span class="text-rain-cyan font-semibold text-lg">Rain
+18h.01"></path></svg></div><span class="text-rain-cyan font-semibold text-lg">Rain
 Money App</span></div><h2 class="text-4xl md:text-5xl font-bold mb-6">The Safe and
 Secure Way to Earn</h2><p class="text-xl text-white/90 mb-8 leading-relaxed">Ready
 to take control of your financial future while helping others grow? Join the Rain
@@ -434,7 +423,8 @@ success of local businesses, Rain Money provides the perfect opportunity to do b
 </p><div class="space-y-4"><p class="text-lg font-semibold text-white mb-6">Download
 the Rain Money App now and become part of a growing community!</p><div class="flex
 flex-col sm:flex-row gap-4"><div class="rounded-lg border text-card-foreground
-shadow-sm p-4 bg-black/20 border-white/20 hover:bg-black/30 transition-all duration-
+
+ shadow-sm p-4 bg-black/20 border-white/20 hover:bg-black/30 transition-all duration-
 300 cursor-pointer group"><div class="flex items-center space-x-3"><div class="bg-
 white/20 p-2 rounded"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
 viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-
@@ -454,13 +444,13 @@ d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 1
 class="text-white/80 text-xs">Download on the</p><p class="text-white font-semibold
 text-lg group-hover:scale-105 transition-transform">App Store</p></div></div></div>
 </div></div></div><div class="relative"><div class="relative z-10 flex justify-
-center"><img src="/assets/rain-money-app-mockup-CC3V3VfZ.png" alt="Rain Money App"
+center"><img src="/assets/rain-money-app-mockup-B3RoEdjB.png" alt="Rain Money App"
 class="max-w-xs lg:max-w-sm shadow-glow"></div><div class="absolute top-1/2 left-1/2
 transform -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-rain-cyan/20 rounded-full
 blur-3xl"></div></div></div></div></section><footer class="bg-foreground text-
 background py-16"><div class="container mx-auto px-4"><div class="grid md:grid-cols-
 4 gap-8 mb-12"><div class="col-span-2"><div class="flex items-center space-x-3 mb-
-6"><img src="/assets/rain-money-logo-B58EfIYp.png" alt="RM" class="w-10 h-10"><span
+6"><img src="/assets/rain-money-logo-Cxj6eLGy.png" alt="RM" class="w-10 h-10"><span
 class="text-3xl font-bold text-white">Rain Money</span></div><p class="text-
 background/80 mb-6 max-w-md leading-relaxed">Empowering Nigerian businesses and
 individuals through innovative financial solutions. Your trusted partner for loans
@@ -481,8 +471,7 @@ height="16" x="2" y="4" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.
 <div class="flex items-center space-x-3"><svg xmlns="http://www.w3.org/2000/svg"
 width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-
 width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-map-
-
- pin w-5 h-5 text-rain-cyan"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0
+pin w-5 h-5 text-rain-cyan"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0
 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"></path><circle cx="12"
 cy="10" r="3"></circle></svg><span class="text-background/90">Lagos, Nigeria</span>
 </div></div></div><div><h3 class="text-xl font-bold text-white mb-6">Quick
@@ -495,7 +484,8 @@ rain-cyan transition-colors">Loan Calculator</a></li><li><a href="#contact"
 class="text-background/80 hover:text-rain-cyan transition-colors">Contact</a></li>
 </ul></div><div><h3 class="text-xl font-bold text-white mb-6">Legal</h3><ul
 class="space-y-3"><li><a href="#" class="text-background/80 hover:text-rain-cyan
-transition-colors">Privacy Policy</a></li><li><a href="#" class="text-background/80
+
+ transition-colors">Privacy Policy</a></li><li><a href="#" class="text-background/80
 hover:text-rain-cyan transition-colors">Terms of Service</a></li><li><a href="#"
 class="text-background/80 hover:text-rain-cyan transition-colors">Cookie Policy</a>
 </li><li><a href="#" class="text-background/80 hover:text-rain-cyan transition-
@@ -541,8 +531,7 @@ viewBox="0 0 116 22" fill="none" xmlns="http://www.w3.org/2000/svg">
 17.5726C94.1058 18.7123 93.4265 19.5876 92.5421 20.1984C91.6668 20.8093 90.6411
 21.1148 89.4649 21.1148ZM88.1794 17.9555C88.7994 17.9555 89.3191 17.7732 89.7385
 17.4084C90.167 17.0437 90.4861 16.5286 90.6958 15.863C90.9146 15.1974 91.0241
-
- 14.4133 91.0241 13.5107C91.0241 12.608 90.9146 11.8239 90.6958 11.1583C90.4861
+14.4133 91.0241 13.5107C91.0241 12.608 90.9146 11.8239 90.6958 11.1583C90.4861
 10.4927 90.167 9.97757 89.7385 9.61286C89.3191 9.23904 88.7994 9.05213 88.1794
 9.05213C87.5685 9.05213 87.0442 9.23904 86.6066 9.61286C86.178 9.97757 85.8544
 10.4973 85.6355 11.172C85.4167 11.8376 85.3073 12.6171 85.3073 13.5107C85.3073
@@ -555,7 +544,8 @@ viewBox="0 0 116 22" fill="none" xmlns="http://www.w3.org/2000/svg">
 12.4578 70.6792 12.239L73.182 11.8834C73.6834 11.8104 74.08 11.7193 74.3718
 11.6099C74.6636 11.5004 74.8778 11.3546 75.0146 11.1722C75.1514 10.9807 75.2197
 10.7391 75.2197 10.4474C75.2197 10.1465 75.1377 9.87294 74.9736 9.62677C74.8186
-9.37147 74.5815 9.17088 74.2624 9.025C73.9524 8.87 73.574 8.7925 73.1272
+
+ 9.37147 74.5815 9.17088 74.2624 9.025C73.9524 8.87 73.574 8.7925 73.1272
 8.7925C72.4161 8.7925 71.8462 8.97941 71.4177 9.35324C70.9892 9.71794 70.7567
 10.2194 70.7202 10.8576H66.4395C66.4759 9.89118 66.7677 9.03412 67.3148
 8.28647C67.8709 7.52971 68.6414 6.94162 69.6261 6.52221C70.6108 6.1028 71.7505
@@ -602,8 +592,7 @@ x="0" y="0" width="20" height="21">
 </mask>
 <g mask="url(#mask0_19703_15608)">
 <g filter="url(#filter0_f_19703_15608)">
-
- <circle cx="8.63157" cy="11.5658" r="13.3199" fill="#4B73FF"></circle>
+<circle cx="8.63157" cy="11.5658" r="13.3199" fill="#4B73FF"></circle>
 </g>
 <g filter="url(#filter1_f_19703_15608)">
 <ellipse cx="10.0949" cy="4.25612" rx="17.0591" ry="13.3199" fill="#FF66F4">
@@ -616,7 +605,8 @@ x="0" y="0" width="20" height="21">
 <g filter="url(#filter3_f_19703_15608)">
 <circle cx="10.3319" cy="4.25254" r="8.01052" fill="#FE7B02"></circle>
 </g>
-</g>
+
+ </g>
 <defs>
 <filter id="filter0_f_19703_15608" x="-10.6577" y="-7.72354" width="38.5786"
 height="38.5786" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -661,26 +651,26 @@ x2="12.6165" y2="20.8863" gradientUnits="userSpaceOnUse">
         <button id="lovable-badge-close" style="position: absolute; top: -2px;
 right: 5px; cursor: pointer; font-size: 14px; color: #A1A1AA;">×</button>
 </a>
-
- <script>
+<script>
         // Don't show the lovable-badge if the page is in an iframe or if it's being
 rendered by puppeteer (screenshot service)
-        if (window.self !== window.top || navigator.userAgent.includes('puppeteer'))
 {
-} </script>
-</body>
+if (window.self !== window.top || navigator.userAgent.includes('puppeteer'))
         // the page is in an iframe
         var badge = document.getElementById('lovable-badge');
         if (badge) {
                 badge.style.display = 'none';
 } }
 // Add click event listener to close button
+
+ } </script>
+</body>
 var closeButton = document.getElementById('lovable-badge-close');
 if (closeButton) {
-        closeButton.addEventListener('click', function(event) {
-                event.preventDefault();
-                event.stopPropagation();
-                var badge = document.getElementById('lovable-badge');
-                if (badge) {
+closeButton.addEventListener('click', function(event) {
+        event.preventDefault();
+        event.stopPropagation();
+        var badge = document.getElementById('lovable-badge');
+        if (badge) {
 } });
 badge.style.display = 'none';
