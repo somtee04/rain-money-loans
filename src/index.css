@@ -8,7 +8,7 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
+    --background: 240 10% 97%;
     --foreground: 222.2 84% 4.9%;
 
     --card: 0 0% 100%;
@@ -17,24 +17,41 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    --primary: 225 85% 65%;
+    --primary-foreground: 0 0% 98%;
 
-    --secondary: 210 40% 96.1%;
+    --secondary: 240 5% 96%;
     --secondary-foreground: 222.2 47.4% 11.2%;
 
-    --muted: 210 40% 96.1%;
+    --muted: 240 5% 96%;
     --muted-foreground: 215.4 16.3% 46.9%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 190 85% 50%;
+    --accent-foreground: 0 0% 98%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
     --border: 214.3 31.8% 91.4%;
     --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --ring: 225 85% 65%;
+    
+    /* Rain Money brand colors */
+    --rain-blue: 225 85% 65%;
+    --rain-blue-light: 225 85% 75%;
+    --rain-blue-dark: 225 85% 55%;
+    --rain-cyan: 190 85% 50%;
+    --rain-purple: 280 85% 65%;
+    
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(var(--rain-blue)), hsl(var(--rain-cyan)));
+    --gradient-hero: linear-gradient(135deg, hsl(var(--rain-blue) / 0.9), hsl(var(--rain-purple) / 0.7));
+    --gradient-card: linear-gradient(145deg, hsl(var(--rain-blue)), hsl(var(--rain-purple)));
+    
+    /* Effects */
+    --shadow-soft: 0 4px 20px -4px hsl(var(--rain-blue) / 0.15);
+    --shadow-medium: 0 8px 30px -8px hsl(var(--rain-blue) / 0.25);
+    --shadow-glow: 0 0 40px hsl(var(--rain-blue) / 0.3);
 
     --radius: 0.5rem;
 
@@ -56,33 +73,33 @@ All colors MUST be HSL.
   }
 
   .dark {
-    --background: 222.2 84% 4.9%;
+    --background: 225 25% 8%;
     --foreground: 210 40% 98%;
 
-    --card: 222.2 84% 4.9%;
+    --card: 225 25% 12%;
     --card-foreground: 210 40% 98%;
 
-    --popover: 222.2 84% 4.9%;
+    --popover: 225 25% 12%;
     --popover-foreground: 210 40% 98%;
 
-    --primary: 210 40% 98%;
-    --primary-foreground: 222.2 47.4% 11.2%;
+    --primary: 225 85% 65%;
+    --primary-foreground: 225 25% 8%;
 
-    --secondary: 217.2 32.6% 17.5%;
+    --secondary: 225 15% 18%;
     --secondary-foreground: 210 40% 98%;
 
-    --muted: 217.2 32.6% 17.5%;
+    --muted: 225 15% 18%;
     --muted-foreground: 215 20.2% 65.1%;
 
-    --accent: 217.2 32.6% 17.5%;
-    --accent-foreground: 210 40% 98%;
+    --accent: 190 85% 50%;
+    --accent-foreground: 225 25% 8%;
 
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
-    --ring: 212.7 26.8% 83.9%;
+    --border: 225 15% 18%;
+    --input: 225 15% 18%;
+    --ring: 225 85% 65%;
     --sidebar-background: 240 5.9% 10%;
     --sidebar-foreground: 240 4.8% 95.9%;
     --sidebar-primary: 224.3 76.3% 48%;
@@ -101,5 +118,17 @@ All colors MUST be HSL.
 
   body {
     @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .bg-grid-pattern {
+    background-image: radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px);
+    background-size: 20px 20px;
   }
 }
